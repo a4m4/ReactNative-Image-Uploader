@@ -66,7 +66,7 @@ export default class App extends Component {
   };
 
   render() {
-    console.log(this.state.imageSource);
+   
     return (
       <View style={{alignItems: 'center'}}>
         <ImageBackground
